@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vickokakuse21
 - 👀 I’m interested in cooking
-- 🌱 I’m currently learning full-stack js
+- 🌱 I’m currently learning full-stack developer
 - 💞️ I’m looking to collaborate on "the way"
 - 📫 How to reach me @vickokakuse21
 
